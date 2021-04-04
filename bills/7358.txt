@@ -1,0 +1,18 @@
+
+	WELCOME TO SHUU CAFE 
+	---------------------
+ Bill Number :7358
+ Customer Name:mitthu 
+ Phone Number :14526952 
+--------------------------------------
+ FoodItems		QTY		Price
+--------------------------------------
+ Pizza		1	   Rs. 320
+ Coke		1	   Rs. 110
+ Pastry		1	   Rs. 90
+--------------------------------------
+ GST			   Rs.57.6
+ SGST			   Rs.19.8
+ CGST			   Rs.16.2
+--------------------------------------
+ Total			   Rs.613.6

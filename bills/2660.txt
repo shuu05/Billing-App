@@ -1,0 +1,18 @@
+
+	WELCOME TO SHUU CAFE 
+	---------------------
+ Bill Number :2660
+ Customer Name:Mr. Happy 
+ Phone Number :23018548031 
+--------------------------------------
+ FoodItems		QTY		Price
+--------------------------------------
+ Veggie wrap		2	   Rs. 300
+ Coke		2	   Rs. 220
+ Brownies		2	   Rs. 300
+--------------------------------------
+ GST			   Rs.54.0
+ SGST			   Rs.39.6
+ CGST			   Rs.54.0
+--------------------------------------
+ Total			   Rs.967.6
